@@ -1,4 +1,4 @@
-# 03 JavaScript: Password Generator
+# JavaScript: Password Generator
 
 ## Description
 
@@ -10,11 +10,17 @@ N/A
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+Once user presses the generate password, they will be promped to choose a desired length. Once they enter a desired length, they will be asked a series of questions. If the password is below 8 or above 120, they will be alerted that the password must be between 8 to 120 characters. If the password is between 8 to 120, they will be asked if they want uppercase or lowercase letters, numbers, or characters. They will press ok to confirm they would like to use them or cancel if they would not like to use it. 
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
+![alt](/Assets/03-javascript-homework-demo.png)
+![alt](/Assets/Screenshot%202023-03-12%20at%2010.17.09%20PM.png)
+![alt](/Assets/Screenshot%202023-03-12%20at%2010.17.22%20PM.png)
+![alt](/Assets/Screenshot%202023-03-12%20at%2010.17.35%20PM.png)
+![alt](/Assets/Screenshot%202023-03-12%20at%2010.17.41%20PM.png)
+![alt](/Assets/Screenshot%202023-03-12%20at%2010.17.50%20PM.png)
+![alt](/Assets/Screenshot%202023-03-12%20at%2010.18.00%20PM.png)
+![alt](/Assets/Screenshot%202023-03-12%20at%2010.18.08%20PM.png)
 
-![alt text](assets/images/screenshot.png) 
 
 ## Credits
 
@@ -24,4 +30,8 @@ Thankful for Shawn Tschoepe for helping me finish and understand the homework.
 
 Please refer to the LICENSE in the repo.
 
-## Depl
+## Deployment
+
+
+
+
