@@ -32,6 +32,7 @@ Please refer to the LICENSE in the repo.
 
 ## Deployment
 
+https://kriskris9.github.io/PasswordGenerator/
 
-
+![alt](/Assets/Screenshot%202023-03-12%20at%2010.43.48%20PM.png)
 
